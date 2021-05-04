@@ -1,1 +1,1 @@
-# Linux-Shell-in-C
+Shell for linux terminal.
